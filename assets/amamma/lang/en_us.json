@@ -1,7 +1,7 @@
 {
-  "death.attack.banned.item": "You were banned by %2$s",
+  "death.attack.banned.item": "%1$s was banned by %2$s",
   "entity.amamma.amamma": "Amamma",
-  "death.attack.banned": "You were banned by Amamma",
+  "death.attack.banned": "%1$s was banned by Amamma",
   "item.amamma.amamma_spawn_egg": "Amamma Spawn Egg",
-  "death.attack.banned.player": "%1$s died whilst trying to escape %2$s"
+  "death.attack.banned.player": "%1$s got banned whilst trying to escape %2$s"
 }

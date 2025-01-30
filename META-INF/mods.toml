@@ -4,11 +4,11 @@ license="Apache License version 2.0"
 
 [[mods]]
 modId="amamma"
-version="1.1.0"
+version="1.2.0"
 displayName="Amamma"
 displayURL="https://kamivt.dev"
 logoFile="logo.png"
-credits="Amamma PNG by: https://x.com/holykoshi"
+credits="Amamma and Meow PNG by: https://x.com/holykoshi"
 authors="Meow"
 description="Adds that silly Meowderator to your world! (She will ban you)"
 
